@@ -1,0 +1,11 @@
+.forbiddenWarning{
+    background-color: red; 
+    border: none;           
+    color: white;           
+    padding: 20px;          
+    border-radius: 5px;    
+    font-family: Arial, sans-serif;  
+    font-size: 16px;        
+    text-align: center;
+
+}
